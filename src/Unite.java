@@ -1,5 +1,4 @@
-public class Unite
-{
+public class Unite {
    private int pointsDeVie;
    private TypeDeplacement typeDeplacement;
    private int deplacementMoyen;
@@ -11,4 +10,17 @@ public class Unite
    private Faction faction;
    private int experience;
    private int niveau;
+   
+   public void Unite( ) {
+	   
+	   
+   }
+   
+   public void gainexperience() {
+	   experience++;
+   }
+   
+   public void gainniveau() {
+	   niveau++;
+   }
 }

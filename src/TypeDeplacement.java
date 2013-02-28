@@ -1,5 +1,4 @@
 import java.util.HashMap;
-public class TypeDeplacement
-{
+public class TypeDeplacement {
     private HashMap<Terrain, Integer> coutsDeplacement;
 }

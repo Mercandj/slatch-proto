@@ -1,4 +1,3 @@
-public class Vehicule extends Unite
-{
+public class Vehicule extends Unite {
     
 }

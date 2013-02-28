@@ -1,4 +1,3 @@
-public class Moteur
-{
+public class Moteur {
 
 }

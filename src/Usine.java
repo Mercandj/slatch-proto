@@ -1,4 +1,3 @@
-public class Usine extends Batiment
-{
+public class Usine extends Batiment {
     
 }
